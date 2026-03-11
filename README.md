@@ -48,5 +48,6 @@ Key Insights
 Layoffs peaked in 2022, contributing the largest single‑year total.
 The United States experienced far more layoffs than any other country.
 Cumulative layoffs exceeded 380,000 by 2023.
-Top companies varied by year (e.g., Uber in 2020, Bytedance in 2021).
+Top companies varied by year (Uber in 2020, Bytedance in 2021).
 
+for more details,open the document
